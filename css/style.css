@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-    background-image: url("../imgs/fondo1.jpg");
+    background-image: url("../public/imgs/fondo1.jpg");
  background-repeat: no-repeat;
  background-size: cover;
   display: flex;
@@ -91,4 +91,5 @@ h1 {
 h2,li{
   color: white;
   font-size: 18px;
+
 }
